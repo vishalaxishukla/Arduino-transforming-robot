@@ -27,8 +27,5 @@ Built a transforming robot using Arduino capable of switching between car and hu
 - Motor synchronization challenges
 - Embedded system control flow
 
-## Output
-(Add video link or images here)
-
 ## Status
 Completed
